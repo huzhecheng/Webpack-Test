@@ -23,8 +23,8 @@
   },
   "dependencies": {
     "react": "^15.6.1",
+    "react-bootstrap": "^0.31.2",
     "react-dom": "^15.6.1",
-    "remarkable": "^1.7.1",
     "react-progress-2": "^4.4.1"
   }
 }
